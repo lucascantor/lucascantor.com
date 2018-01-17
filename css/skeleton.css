@@ -162,7 +162,7 @@ a {
   text-decoration: none; }
 a:hover {
   color: #4A96E8;
-  text-decoration: underline }
+  text-decoration: none; }
 
 
 /* Buttons
@@ -208,8 +208,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #33C3F0;
-  border-color: #33C3F0; }
+  background-color: #4A86E8;
+  border-color: #4A86E8; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -221,8 +221,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #4A86E8;
-  border-color: #4A86E8; }
+  background-color: #4A96E8;
+  border-color: #4A96E8; }
 
 
 /* Forms
@@ -268,7 +268,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #33C3F0;
+  border: 1px solid #4A96E8;
   outline: 0; }
 label,
 legend {
@@ -297,10 +297,6 @@ ul {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2; }
-.social a:hover {
-  text-decoration: none; }
-.social strong:hover {
-  text-decoration: underline; }
 ol {
   list-style: decimal inside; }
 ol, ul {
