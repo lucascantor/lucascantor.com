@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/lucascantor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lucascantor.com
+  * I am lucascantor (https://keybase.io/lucascantor) on keybase.
+  * I have a public key ASADe8-bpXZ-P4y8r0tN8Xdss09LKGpW5FREoK0N4u63ngo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120037bcf9ba5767e3f8cbcaf4b4df1776cb34f4b286a56e45444a0ad0de2eeb79e0a",
+            "host": "keybase.io",
+            "kid": "0120037bcf9ba5767e3f8cbcaf4b4df1776cb34f4b286a56e45444a0ad0de2eeb79e0a",
+            "uid": "f7daabd58bb776c816b0160f4cd5fa19",
+            "username": "lucascantor"
+        },
+        "service": {
+            "hostname": "lucascantor.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474672810,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474672781,
+        "hash": "824bd41b0caa928a5e6152612c575bad2048b7beb2f41d426990f1740c9c86ab9e436e253f88fe78ba036fa17f57b42b6cfe9e6fc65c153f44ab21b2b74a64ca",
+        "seqno": 651058
+    },
+    "prev": "26f2840d4f79124c9d817c33dbb0b58e5305d6e0c5811bf263ac4b413552cdd3",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA3vPm6V2fj+MvK9LTfF3bLNPSyhqVuRURKCtDeLut54Kp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDM3YmNmOWJhNTc2N2UzZjhjYmNhZjRiNGRmMTc3NmNiMzRmNGIyODZhNTZlNDU0NDRhMGFkMGRlMmVlYjc5ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDM3YmNmOWJhNTc2N2UzZjhjYmNhZjRiNGRmMTc3NmNiMzRmNGIyODZhNTZlNDU0NDRhMGFkMGRlMmVlYjc5ZTBhIiwidWlkIjoiZjdkYWFiZDU4YmI3NzZjODE2YjAxNjBmNGNkNWZhMTkiLCJ1c2VybmFtZSI6Imx1Y2FzY2FudG9yIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJsdWNhc2NhbnRvci5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3NDY3MjgxMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc0NjcyNzgxLCJoYXNoIjoiODI0YmQ0MWIwY2FhOTI4YTVlNjE1MjYxMmM1NzViYWQyMDQ4YjdiZWIyZjQxZDQyNjk5MGYxNzQwYzljODZhYjllNDM2ZTI1M2Y4OGZlNzhiYTAzNmZhMTdmNTdiNDJiNmNmZTllNmZjNjVjMTUzZjQ0YWIyMWIyYjc0YTY0Y2EiLCJzZXFubyI6NjUxMDU4fSwicHJldiI6IjI2ZjI4NDBkNGY3OTEyNGM5ZDgxN2MzM2RiYjBiNThlNTMwNWQ2ZTBjNTgxMWJmMjYzYWM0YjQxMzU1MmNkZDMiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC17+8IZ2MVEpPgESp8hFcpv7cPtk1pKXjrc9u0SbcAcYT2/22hOHcVduplklsAovtqSedtKq7xooEY+KAGl2gMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgLMuX8qm9TrK0hfm4TGvO/6b2Xxzx3nKJmCkuAdgcrwCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lucascantor
+
+==================================================================

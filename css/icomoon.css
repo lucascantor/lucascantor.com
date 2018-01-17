@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'icomoon';
+  src:
+    url('https://cdn.lucascantor.com/icomoon/fonts/icomoon.ttf') format('truetype'),
+    url('https://cdn.lucascantor.com/icomoon/fonts/icomoon.woff') format('woff'),
+    url('https://cdn.lucascantor.com/icomoon/fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lock-stripes:before {
+  content: "\e900";
+}
+.icon-document-edit:before {
+  content: "\e901";
+}
+.icon-document-certificate:before {
+  content: "\e902";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
