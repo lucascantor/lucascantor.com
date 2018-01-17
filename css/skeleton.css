@@ -158,9 +158,11 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #1EAEDB;
+  text-decoration: none; }
 a:hover {
-  color: #0FA0CE; }
+  color: #0FA0CE;
+  text-decoration: underline }
 
 
 /* Buttons
@@ -289,6 +291,16 @@ label > .label-body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside; }
+.social {
+  list-style-type: none;
+  padding: 0;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2; }
+.social a:hover {
+  text-decoration: none; }
+.social strong:hover {
+  text-decoration: underline; }
 ol {
   list-style: decimal inside; }
 ol, ul {
