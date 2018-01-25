@@ -223,6 +223,14 @@ input[type="button"].button-primary:focus {
   color: #FFF;
   background-color: #4A96E8;
   border-color: #4A96E8; }
+.button.button-primary:disabled,
+button.button-primary:disabled,
+input[type="submit"].button-primary:disabled,
+input[type="reset"].button-primary:disabled,
+input[type="button"].button-primary:disabled {
+  color: #FFF;
+  background-color: #637280;
+  border-color: #637280; }
 
 
 /* Forms
