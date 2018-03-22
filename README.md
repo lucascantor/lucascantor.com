@@ -2,6 +2,9 @@
 
 Version history of lucascantor.com hosted on S3 behind CloudFront
 
+## Infra Diagram
+![Infra Diagram](infra-diagram.png "Infra Diagram")
+
 ## Contributing workflow
 
 Here’s how we suggest you go about proposing a change to this project:
