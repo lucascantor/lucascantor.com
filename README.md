@@ -1,9 +1,6 @@
 # lucascantor.com
 
-Version history of lucascantor.com hosted on S3 behind CloudFront
-
-## Infra Diagram
-![Infra Diagram](infra-diagram.png "Infra Diagram")
+Version history of [lucascantor.com](https://lucascantor.com) on GitHub Pages
 
 ## Contributing workflow
 
