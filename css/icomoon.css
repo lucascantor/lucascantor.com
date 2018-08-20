@@ -23,17 +23,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-lock-stripes:before {
-  content: "\e900";
+.icon-lock:before {
+  content: "\e904";
 }
 .icon-document-edit:before {
-  content: "\e901";
+  content: "\e903";
 }
 .icon-document-certificate:before {
   content: "\e902";
 }
-.icon-twitter:before {
-  content: "\ea96";
+.icon-mastodon:before {
+  content: "\ea900";
 }
 .icon-github:before {
   content: "\eab0";
