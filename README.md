@@ -1,6 +1,6 @@
 # lucascantor.com
 
-Version history of [lucascantor.com](https://lucascantor.com) on GitHub Pages
+Version history of [lucascantor.com](https://lucascantor.com) - hosted on AWS S3 and CloudFront
 
 ## Contributing workflow
 
